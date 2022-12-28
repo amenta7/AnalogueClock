@@ -6,6 +6,6 @@ module com.example.analogclock {
     requires com.dlsc.formsfx;
     requires org.kordamp.bootstrapfx.core;
 
-    opens com.example.analogclock to javafx.fxml;
-    exports com.example.analogclock;
+    opens analogueclock to javafx.fxml;
+    exports analogueclock;
 }

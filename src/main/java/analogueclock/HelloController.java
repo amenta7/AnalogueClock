@@ -1,4 +1,4 @@
-package com.example.analogclock;
+package analogueclock;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
